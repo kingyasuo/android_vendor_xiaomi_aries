@@ -224,9 +224,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so
 
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/aries/proprietary/vendor/lib/hw/power.qcom.so:system/vendor/lib/hw/power.qcom.so
-
-PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
     vendor/xiaomi/aries/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw
 
