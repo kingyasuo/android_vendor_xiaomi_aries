@@ -59,7 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/lib/drm/libdrmprplugin.so:system/lib/drm/libdrmprplugin.so \
     vendor/xiaomi/aries/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/xiaomi/aries/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
-    vendor/xiaomi/aries/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
+    vendor/xiaomi/aries/proprietary/vendor/lib/sensors.aries.so:system/vendor/lib/sensors.aries.so \
     vendor/xiaomi/aries/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/xiaomi/aries/proprietary/lib/libCommandSvc.so:system/lib/libCommandSvc.so \
     vendor/xiaomi/aries/proprietary/lib/libDivxDrm.so:system/lib/libDivxDrm.so \
