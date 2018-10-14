@@ -153,6 +153,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
     vendor/xiaomi/aries/proprietary/lib/libsensor_test.so:system/lib/libsensor_test.so \
     vendor/xiaomi/aries/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
+    vendor/xiaomi/aries/proprietary/lib/libstlport.so:system/lib/libstlport.so \
     vendor/xiaomi/aries/proprietary/lib/libsurround_proc.so:system/lib/libsurround_proc.so \
     vendor/xiaomi/aries/proprietary/lib/libthermalclient.so:system/lib/libthermalclient.so \
     vendor/xiaomi/aries/proprietary/lib/libulp2.so:system/lib/libulp2.so \
