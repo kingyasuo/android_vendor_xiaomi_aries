@@ -58,7 +58,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/etc/modem/Diag.cfg:system/etc/modem/Diag.cfg \
     vendor/xiaomi/aries/proprietary/lib/drm/libdrmprplugin.so:system/lib/drm/libdrmprplugin.so \
     vendor/xiaomi/aries/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
-    vendor/xiaomi/aries/proprietary/lib/hw/gps.msm8960.so:system/lib/hw/gps.msm8960.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/sensors.aries.so:system/vendor/lib/sensors.aries.so \
     vendor/xiaomi/aries/proprietary/lib/libAKM.so:system/lib/libAKM.so \
     vendor/xiaomi/aries/proprietary/lib/libCommandSvc.so:system/lib/libCommandSvc.so \
@@ -117,13 +116,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/lib/libdsucsd.so:system/lib/libdsucsd.so \
     vendor/xiaomi/aries/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/xiaomi/aries/proprietary/lib/libgemini.so:system/lib/libgemini.so \
-    vendor/xiaomi/aries/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/xiaomi/aries/proprietary/lib/libidl.so:system/lib/libidl.so \
     vendor/xiaomi/aries/proprietary/lib/libimage-jpeg-dec-omx-comp.so:system/lib/libimage-jpeg-dec-omx-comp.so \
     vendor/xiaomi/aries/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/xiaomi/aries/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
-    vendor/xiaomi/aries/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/xiaomi/aries/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/xiaomi/aries/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/xiaomi/aries/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/xiaomi/aries/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
