@@ -21,11 +21,12 @@ ifeq ($(TARGET_DEVICE),aries)
 include $(CLEAR_VARS)
 LOCAL_MODULE := libqminvapi
 LOCAL_MODULE_OWNER := xiaomi
-LOCAL_SRC_FILES := proprietary/lib/libqminvapi.so
+LOCAL_SRC_FILES := proprietary/vendor/lib/libqminvapi.so
 LOCAL_MULTILIB := 32
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
 LOCAL_MODULE_SUFFIX := .so
+LOCAL_VENDOR_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
