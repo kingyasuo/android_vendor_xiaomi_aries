@@ -33,15 +33,15 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/xiaomi/aries/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
     vendor/xiaomi/aries/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-    vendor/xiaomi/aries/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
-    vendor/xiaomi/aries/proprietary/etc/firmware/voiceproc.img:system/etc/firmware/voiceproc.img \
-    vendor/xiaomi/aries/proprietary/etc/firmware/voiceproc_init.img:system/etc/firmware/voiceproc_init.img \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc.b00:system/vendor/firmware/vidc.b00 \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc.b01:system/vendor/firmware/vidc.b01 \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc.b02:system/vendor/firmware/vidc.b02 \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc.b03:system/vendor/firmware/vidc.b03 \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc.mdt:system/vendor/firmware/vidc.mdt \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidc_1080p.fw:system/vendor/firmware/vidc_1080p.fw \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/vidcfw.elf:system/vendor/firmware/vidcfw.elf \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/voiceproc.img:system/vendor/firmware/voiceproc.img \
+    vendor/xiaomi/aries/proprietary/vendor/firmware/voiceproc_init.img:system/vendor/firmware/voiceproc_init.img \
     vendor/xiaomi/aries/proprietary/vendor/etc/modem/Diag.cfg:system/vendor/etc/modem/Diag.cfg \
     vendor/xiaomi/aries/proprietary/lib/drm/libdrmprplugin.so:system/lib/drm/libdrmprplugin.so \
     vendor/xiaomi/aries/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
