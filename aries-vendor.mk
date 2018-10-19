@@ -63,7 +63,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/xiaomi/aries/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/xiaomi/aries/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
-    vendor/xiaomi/aries/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/xiaomi/aries/proprietary/lib/libchromatix_imx132_default_video.so:system/lib/libchromatix_imx132_default_video.so \
     vendor/xiaomi/aries/proprietary/lib/libchromatix_imx132_preview.so:system/lib/libchromatix_imx132_preview.so \
     vendor/xiaomi/aries/proprietary/lib/libchromatix_imx132_zsl.so:system/lib/libchromatix_imx132_zsl.so \
