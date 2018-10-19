@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
     vendor/xiaomi/aries/proprietary/etc/firmware/voiceproc.img:system/etc/firmware/voiceproc.img \
     vendor/xiaomi/aries/proprietary/etc/firmware/voiceproc_init.img:system/etc/firmware/voiceproc_init.img \
-    vendor/xiaomi/aries/proprietary/etc/modem/Diag.cfg:system/etc/modem/Diag.cfg \
+    vendor/xiaomi/aries/proprietary/vendor/etc/modem/Diag.cfg:system/vendor/etc/modem/Diag.cfg \
     vendor/xiaomi/aries/proprietary/lib/drm/libdrmprplugin.so:system/lib/drm/libdrmprplugin.so \
     vendor/xiaomi/aries/proprietary/lib/hw/flp.msm8960.so:system/lib/hw/flp.msm8960.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/sensors.aries.so:system/vendor/lib/sensors.aries.so \
