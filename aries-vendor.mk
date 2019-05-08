@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/vendor/lib/libAKM.so:system/vendor/lib/libAKM.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libCommandSvc.so:system/vendor/lib/libCommandSvc.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libDivxDrm.so:system/vendor/lib/libDivxDrm.so \
-    vendor/xiaomi/aries/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libOmxEvrcDec.so:system/vendor/lib/libOmxEvrcDec.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so \
@@ -104,7 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/aries/proprietary/vendor/lib/libimage-jpeg-dec-omx-comp.so:system/vendor/lib/libimage-jpeg-dec-omx-comp.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libimage-jpeg-enc-omx-comp.so:system/vendor/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libimage-omx-common.so:system/vendor/lib/libimage-omx-common.so \
-    vendor/xiaomi/aries/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libmmcamera_frameproc.so:system/vendor/lib/libmmcamera_frameproc.so \
     vendor/xiaomi/aries/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
